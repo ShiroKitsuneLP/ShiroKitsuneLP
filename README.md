@@ -1,16 +1,26 @@
-### Hi there 👋
+<!--- Profile Views Counters --->
 
-<!--
-**ShiroKitsuneLP/ShiroKitsuneLP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="right">
+    <img src="https://komarev.com/ghpvc/?username=shirokitsunelp&label=Profile%20Views&color=eea5cd&style=flat">
+</div>
 
-Here are some ideas to get you started:
+<!--- Profile Banner --->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <img src="./assets/Mahiro_Oyama.png">
+</div>
+
+<!--- Title --->
+
+<div>
+    <h1 align="center">Hi, I'm <span  style="color: #eea5cd">Shiro</span >!</h1>
+</div>
+
+<!--- Github Stats --->
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=shirokitsunelp&show_icons=true&theme=dracula&title_color=eea5cd&border_color=eea5cd" />
+    <!---
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirokitsunelp&layout=compact&theme=dracula&title_color=eea5cd&border_color=eea5cd" />
+    --->
+</div>
