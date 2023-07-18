@@ -13,7 +13,7 @@
 <!--- Title --->
 
 <div align="center">
-    <h1>Hi, I'm <a href="https://github.com/ShiroKitsuneLP" style="color: #eea5cd">Shiro</a>!</h1>
+    <h1>Hi, I'm <a href="https://github.com/ShiroKitsuneLP">Shiro</a>!</h1>
 </div>
 
 <!--- Github Stats --->
