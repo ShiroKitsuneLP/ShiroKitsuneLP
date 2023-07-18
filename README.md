@@ -12,8 +12,8 @@
 
 <!--- Title --->
 
-<div>
-    <h1 align="center">Hi, I'm <span style="color: #eea5cd">Shiro</span>!</h1>
+<div align="center">
+    <h1>Hi, I'm <a href="https://github.com/ShiroKitsuneLP" style="color: #eea5cd">Shiro</a>!</h1>
 </div>
 
 <!--- Github Stats --->
