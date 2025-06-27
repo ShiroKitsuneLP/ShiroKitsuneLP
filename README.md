@@ -18,9 +18,9 @@
 
 <!--- Github Stats --->
 
+<!---
 <div align="center">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shirokitsunelp&&show_icons=true&theme=dracula&title_color=eea5cd&border_color=eea5cd" />
-    <!---
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirokitsunelp&layout=compact&theme=dracula&title_color=eea5cd&border_color=eea5cd" />
-    --->
 </div>
+--->
