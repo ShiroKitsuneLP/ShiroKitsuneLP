@@ -10,8 +10,6 @@
 
 <h2 align="center"> Welcome to my GitHub profile~ UwU</h2>
 
----
-
 <!-- About Me -->
 
 <h2 align="center">About Me</h2>
@@ -23,8 +21,6 @@
 <div align="center">
     <img src="assets/Shiro_NGNL_2.png" alt="Banner" width="25%"/>
 </div>
-
----
 
 <!-- Interests -->
 
@@ -40,8 +36,6 @@
     Drawing and Art
 </p>
 
----
-
 <!-- Skills -->
 
 <h2 align="center">Skills</h2>
@@ -54,7 +48,6 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
----
 
 <!-- Active Projects -->
 
@@ -67,8 +60,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShiroKitsuneLP&repo=Miyuki&theme=dark" alt="ReadMe Card" />
 </div>
 
----
-
 <!-- Stats -->
 
 <h2 align="center">GitHub Stats</h2>
@@ -76,8 +67,6 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ShiroKitsuneLP&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
-
----
 
 <!-- Discord -->
 
@@ -90,8 +79,6 @@
 <div align="center">
     <img src="https://lanyard.cnrad.dev/api/1047995319469752360" alt="Discord Lanyard" />
 </div>
-
----
 
 <!-- Footer -->
 <h2 align="center">Thanks for visiting my profile!</h2>
