@@ -57,7 +57,7 @@
 </p>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShiroKitsuneLP&repo=Miyuki&theme=dark" alt="ReadMe Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShiroKitsuneLP&repo=Miyuki&theme=dark" alt="Miyuki Project" />
 </div>
 
 <!-- Stats -->
