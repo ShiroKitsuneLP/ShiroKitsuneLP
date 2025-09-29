@@ -58,6 +58,7 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShiroKitsuneLP&repo=Miyuki&theme=dark&cache_bust=123" alt="Miyuki Project" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShiroKitsuneLP&repo=Tsukiyo&theme=dark&cache_bust=123" alt="Tsukiyo Project" />
 </div>
 
 <!-- Stats -->
